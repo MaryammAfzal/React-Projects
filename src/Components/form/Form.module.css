@@ -1,0 +1,46 @@
+
+.form_control  label{
+   
+    
+   
+        
+        position: absolute;
+       bottom: 16px;
+       left: 9px;
+       background-color: white;
+       font-weight: 500;
+       
+   
+   }
+   .form_control input{
+   
+   margin-top: 20px;
+    width: 465px;
+      height: 22px; 
+   
+   }
+   .form_control {
+    position: relative;
+    margin-left: 220px;
+    width: 465px;
+
+   }
+  .form_text{
+    position: relative;
+    margin-left: 220px;
+    margin-top: 20px;
+   
+
+  }   
+  .form_text  label{    
+    position: absolute;
+   top: -12px;
+   left: 9px;
+   background-color: white;
+   font-weight: 500;
+  
+
+}
+.Bottom_btn{
+  margin-left: 500px;
+}

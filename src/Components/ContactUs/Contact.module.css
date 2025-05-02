@@ -1,0 +1,59 @@
+.container h1 {
+    font-weight: 800;
+    font-size: 48px;
+    margin-bottom: 4px;
+
+}
+.container p{
+    font-weight: 600px;
+    color: #5A5959;
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    margin: 0
+    
+    
+}
+.container {
+    width: 1100px;
+    margin: auto;
+    gap: 0;
+ 
+}
+.top_btn{
+    display: flex;
+    gap: 8px;
+    width: 500px;
+    margin-left: 220px;
+   
+  
+ 
+  
+}
+.top_btn button{
+    margin: 0%;
+  
+}
+.display{
+    display: flex;
+  flex-direction: row;
+  gap: 0;
+  justify-content: flex-start;
+  
+   margin: 0;
+   padding: 0;
+  
+}
+.picture{
+    
+        width: 100%;      /* Adjusts the width to 100% of its container */
+        height: 100px;     /* Maintains the aspect ratio */
+      
+      
+    
+margin: 0;
+}
+
+.input{
+    align-items: end;
+}

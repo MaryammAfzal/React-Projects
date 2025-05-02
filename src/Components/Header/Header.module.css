@@ -1,0 +1,15 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    width: 1440px;
+  }
+  .list ul{
+      list-style-type: none;
+      justify-content: space-between;
+      display: flex;
+      gap: 24px;
+      font-weight: 600;
+  }
+  .logo{
+    padding-left: 90px;
+  }
