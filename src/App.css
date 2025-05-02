@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> b614df2b16a8e343e0742616c3de54d274442ffb
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 :root{
   --red: #D01C28;
@@ -7,9 +13,112 @@ body{
   margin: 0;
   padding: 0;
   font-family: 'Poppins', sans-serif;
+<<<<<<< HEAD
   overflow: hidden;
  
 }
 .headdiv{
   height: auto;
+=======
+ 
+}
+.container{
+  height: 100%;
+}
+nav{
+ 
+  max-width: 1280px;
+  
+  display: flex;
+ padding-left: 40px;
+ margin-left: 40px;
+  align-items: center;
+  justify-content: space-between;
+  
+  
+}
+nav ul{
+ display: flex;
+  list-style: none;
+  gap: 24px;
+  justify-content: center; /* left-right center */
+  align-items: center;  
+  font-weight:600; 
+
+}
+button{
+  background-color: var(--red);
+  color: white;
+  margin: 30px;
+  width: 75px;
+  height: 31px;
+  border: none;
+  justify-content: center;
+}
+main{
+  
+height: 350px;
+  max-width: 1125px;
+  display: flex;
+  justify-content: center;
+  margin-left: 260px;
+  align-items: center;
+  
+
+
+
+}
+.content{
+  height: fit-content;
+}
+.content h1{
+  font-weight: 700;
+  font-size: 90px;
+  line-height: 77px;
+  height:fit-content;
+  padding-bottom: 5px;
+  
+}
+.para2{
+  font-size: 26px;
+  font-weight: 300;
+  line-height: 100%;
+  color: #5A5959;
+  letter-spacing: 0%;
+  height: fit-content;
+  
+ 
+  
+}
+.button1{
+  background-color: var(--red);
+  color: white;
+  height: 40px;
+  width: 150px;
+  font-size: large;
+  
+}
+.button2{
+  background-color: white;
+  border: 1px solid black;
+  color: #5A5959 ;
+  height: 40px;
+  width: 150px;
+  font-size: large;
+
+}
+.para{
+  width: 290px;
+  font-size: 10px;
+  font-weight: none;
+};
+.images{
+  height: 10%;
+}
+.main{
+  height: 300px;
+}
+.image{
+  height:50px;
+>>>>>>> b614df2b16a8e343e0742616c3de54d274442ffb
 }
